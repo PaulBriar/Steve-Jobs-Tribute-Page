@@ -1,0 +1,23 @@
+.larger-image {
+    width: 800px;
+  }
+   .center{
+    width:800px;
+    margin:0 auto;
+    text-align:left;
+}
+    li{
+  margin: 10px 0;
+    }
+ 
+ .border {
+    border-color: grey;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 50px;
+  }
+.jumbotron {
+            margin-left: 150px!important;
+            margin-right: 150px!important;
+            margin-top: 50px!important;
+        }
